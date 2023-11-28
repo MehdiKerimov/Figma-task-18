@@ -18,11 +18,13 @@
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    background-color: aquamarine;
+
     li {
       margin: auto;
       margin-top: 41px;
       list-style-type: none;
-  
+      /* margin-right: 37px; */
       width: 399px;
       height: 328px;
       border-radius: 30px;
